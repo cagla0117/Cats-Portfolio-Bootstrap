@@ -1,0 +1,72 @@
+body{background: #dadada;}
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 2px;
+}
+
+.pet{
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: black;
+   
+}
+
+.title{margin-right: 40px; font-size:50px;color:rgb(7, 7, 6);font-family:Nunito}
+
+
+.button{border-radius: 25px; margin-left: 300px; background-color:orangered}
+.button2{border-radius: 25px;  background-color:orangered}
+.right_picture{text-align: right;position: relative;float: right; width: 100px;
+    height: 100px; margin-right: 200px;}
+    .left_picture{text-align: left;position: relative;float: left; width: 100px;
+        height: 100px; margin-left: 200px; }
+
+
+h1{font-size:300%;font-family: Nunito;}
+h2{
+    font-family: Nunito;
+}
+.glyphicon {
+    font-size: 50px;
+}
+.column{
+    column-count: 2;
+    column-gap: 0px;
+    column-width: 150px;
+    position: relative;
+    float:initial
+
+}
+
+.back{
+  background: #dadada;
+
+  background-repeat: no-repeat;
+  background-size: 550px 600px;
+  padding: 7px 40px;
+  margin: 10px 0px;
+  font-size: 20px;
+  
+}
+
+.photo{
+
+  width: 570px;
+  height: 550px;
+  position: relative;
+  float: right;       
+  margin-top: 40px;
+  
+  margin-right: 60px;
+
+}
